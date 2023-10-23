@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IsabeliAlmeida---> 
 - 👍 meu email de contato  e almeidaisabeli@escola.pr.gov.br
--  eu estou  interessado em aprender novas linguagens
+- :sun_with_face: eu estou  interessado em aprender novas linguagens
 -  eu estou aprendend a programar recentemente  a linguagem  de JavaScript e Scratch
